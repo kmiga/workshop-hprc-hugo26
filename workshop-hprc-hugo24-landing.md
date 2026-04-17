@@ -1,11 +1,11 @@
-# HPRC Workshop at HUGO 2024
+# HPRC Workshop at HUGO 2026
 
 ## https://tinyurl.com/PangenomeHugo24
 
 ## [Slides](https://docs.google.com/presentation/d/1HijsejJkJ8x_pEStdOHdVnI-DzNQmhUk9I6MF20Ppsk/edit?usp=sharing)
 
 
-See `HUGO-Rome 2024_HPRC-Slides.pdf` for the PDF version.
+See `HUGO-Athens 2026_HPRC-Slides.pdf` for the PDF version.
 
 ## [Click here to reach the JupyterHub Server](http://54.201.223.87/)
 

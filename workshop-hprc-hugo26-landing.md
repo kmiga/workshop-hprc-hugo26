@@ -15,6 +15,7 @@
 - [HPRC Dockstore WDL](https://dockstore.org/organizations/HumanPangenome)
 - [HPRC Interactive Pangenome Browser](http://pangenome.ucsd.edu)
 
+- [HPRC PCLAI]([https://github.com/vgteam/vg/](https://github.com/AI-sandbox/hprc-pclai)
 - [vg](https://github.com/vgteam/vg/)
 - [pggb](https://github.com/pangenome/pggb)
 - [wfamash](https://github.com/waveygang/wfmash)

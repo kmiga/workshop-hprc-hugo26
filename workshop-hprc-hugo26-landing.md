@@ -2,10 +2,6 @@
 
 ## https://tinyurl.com/Pangenome-HUGO26
 
-## [Slides](https://docs.google.com/presentation/d/1Aydbq1PkAXagKncqxX8bevgC9iCzcZiznGIXt6eaoIY/edit?usp=sharing)
-<img width="2905" height="1633" alt="image" src="https://github.com/user-attachments/assets/452e2184-b5e8-4328-a06d-13216402aa27" />
-
-
 ## HPRC and HPP resources
 - [HPRC website](https://humanpangenome.org/)
 - [HPP-T2T Task Team GitHub](https://github.com/human-pangenomics/hpp-t2t-assembly-initiative/blob/main/README.md)
@@ -24,3 +20,6 @@
 - [TubeMap](https://github.com/vgteam/sequenceTubeMap)
 - [odgi](https://github.com/pangenome/odgi)
 - [vg explainer videos](https://cglgenomics.sites.ucsc.edu/explainer-videos-for-variation-graphs-vg/?preview=true)
+
+## [Slides](https://docs.google.com/presentation/d/1Aydbq1PkAXagKncqxX8bevgC9iCzcZiznGIXt6eaoIY/edit?usp=sharing)
+<img width="2905" height="1633" alt="image" src="https://github.com/user-attachments/assets/452e2184-b5e8-4328-a06d-13216402aa27" />

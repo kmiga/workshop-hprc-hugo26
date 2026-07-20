@@ -1,4 +1,4 @@
-# HPRC Workshop at HUGO 2026
+# HPRC Workshop
 
 ## https://tinyurl.com/Pangenome-HUGO26
 
